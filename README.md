@@ -87,5 +87,5 @@ Optional flags
 
 🙌 Credits
 
-    Developed by Vedant  and the security community.
+    Developed by Curry  and the security community.
     Special thanks to open-source contributors and testers.
