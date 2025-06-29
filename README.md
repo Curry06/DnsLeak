@@ -30,8 +30,7 @@ A real-time DNS leak detection tool that monitors outgoing DNS requests on a loc
 
     bash
     git clone https://github.com/yourusername/dnsleak-detector.git
-    cd dnsleak-detector
-
+    cd DnsLeak
 Install dependencies 
 
     pip install -r requirements.txt
