@@ -1,22 +1,22 @@
 EXAMPLE:-  {  
-{"time": "2025-06-29 10:38:19", "domain": "forums.kali.org", "resolver": "8.8.8.8"}
-{"time": "2025-06-29 10:38:29", "domain": "fonts.gstatic.com", "resolver": "8.8.8.8"}
-{"status": "LEAK", "time": "2025-06-29 11:38:11", "domain": "forums.kali.org", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:11", "domain": "forums.kali.org", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "www.exploit-db.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "www.exploit-db.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "ocsp.starfieldtech.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "ocsp.starfieldtech.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "fonts.googleapis.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "fonts.googleapis.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "o.pki.goog", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "o.pki.goog", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:24", "domain": "fonts.gstatic.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:38:24", "domain": "fonts.gstatic.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:39:08", "domain": "firefox.settings.services.mozilla.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:39:11", "domain": "firefox.settings.services.mozilla.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:39:53", "domain": "vpn-api.proton.me", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
-{"status": "LEAK", "time": "2025-06-29 11:39:53", "domain": "vpn-api.proton.me", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"time": "2025-06-29 10:38:19", "domain": "forums.kali.org", "resolver": "8.8.8.8"}
+      {"time": "2025-06-29 10:38:29", "domain": "fonts.gstatic.com", "resolver": "8.8.8.8"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:11", "domain": "forums.kali.org", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:11", "domain": "forums.kali.org", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "www.exploit-db.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "www.exploit-db.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "ocsp.starfieldtech.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:22", "domain": "ocsp.starfieldtech.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "fonts.googleapis.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "fonts.googleapis.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "o.pki.goog", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:23", "domain": "o.pki.goog", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:24", "domain": "fonts.gstatic.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:38:24", "domain": "fonts.gstatic.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:39:08", "domain": "firefox.settings.services.mozilla.com", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:39:11", "domain": "firefox.settings.services.mozilla.com", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:39:53", "domain": "vpn-api.proton.me", "resolver": "192.168.0.1", "provider": "Unknown", "protocol": "UDP"}
+      {"status": "LEAK", "time": "2025-06-29 11:39:53", "domain": "vpn-api.proton.me", "resolver": "192.168.0.106", "provider": "Unknown", "protocol": "UDP"}
 }
 
 
